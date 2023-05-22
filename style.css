@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
-    font-size: 62.5%;
-}
+
 body {
     font-family: "Poppins", sans-serif;
     background-image: url("https://preview.colorlib.com/theme/calvin/assets/img/hero/h1_hero.png.webp")
